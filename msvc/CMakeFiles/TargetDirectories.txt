@@ -1,0 +1,14 @@
+N:/Development/Dev_Base/googletest-1.14.0/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googlemock/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googlemock/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googlemock/CMakeFiles/gmock_main.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googlemock/CMakeFiles/gmock.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googlemock/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googletest/CMakeFiles/gtest.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googletest/CMakeFiles/gtest_main.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googletest/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googletest/CMakeFiles/RUN_TESTS.dir
+N:/Development/Dev_Base/googletest-1.14.0/msvc/googletest/CMakeFiles/ALL_BUILD.dir
